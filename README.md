@@ -82,5 +82,5 @@ miniware
 
 👨‍💻 Author
 
-Harsh Kumar
+Krishna Kanhaiya Jha
 B.Tech CSE — Operating System Project
